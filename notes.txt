@@ -1,0 +1,3 @@
+sudo npm install -g @ionic/cli native-run cordova-res --unsafe-perm
+
+ionic start clutch --type=react --capacitor
